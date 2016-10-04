@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <item>
+            <guid>https://lenta.ru/news/2016/10/04/fem/</guid>
+            <title>Мэрия Новосибирска передумала закрывать откровенную выставку</title>
+            <link>https://lenta.ru/news/2016/10/04/fem/</link>
+            <description>
+                <![CDATA[Посвященной женской красоте выставке FEMINA в Новосибирске предложили новую площадку после того, как в СМИ появились сообщения о ее закрытии из-за откровенного содержания. Комитет по делам молодежи мэрии Новосибирска заявил о готовности предоставить для выставки расположенный в городе центр «Этаж».]]>
+            </description>
+            <pubDate>Tue, 04 Oct 2016 10:31:00 +0300</pubDate>
+            <enclosure
+                    url="https://icdn.lenta.ru/images/2016/10/04/10/20161004103636829/pic_934df373e3d8ced703a0637b41d2188b.jpg"
+                    length="35408" type="image/jpeg"/>
+            <category>Культура</category>
+        </item>
+        <item>
+            <guid>https://lenta.ru/news/2016/10/04/mounthua/</guid>
+            <title>Сотни туристов застряли на священной горе в Китае</title>
+            <link>https://lenta.ru/news/2016/10/04/mounthua/</link>
+            <description>
+                <![CDATA[Сотням туристов пришлось заночевать на священной даосской горе Хуашань в Китае. Работу канатной дороги, доставлявшей отдыхающих на высоту более двух тысяч метров, пришлось остановить из-за сильного ветра. Среди застрявших на горе оказалось много стариков и детей. Утром 4 октября дорога возобновила работу.]]>
+            </description>
+            <pubDate>Tue, 04 Oct 2016 10:24:00 +0300</pubDate>
+            <enclosure
+                    url="https://icdn.lenta.ru/images/2016/10/04/10/20161004100742583/pic_610ae5910314e461269e4a407260d134.jpg"
+                    length="72650" type="image/jpeg"/>
+            <category>Путешествия</category>
+        </item>
+        <item>
+            <guid>https://lenta.ru/news/2016/10/04/paris_premier/</guid>
+            <title>Longchamp посвятила сумку 1-му округу Парижа</title>
+            <link>https://lenta.ru/news/2016/10/04/paris_premier/</link>
+            <description>
+                <![CDATA[Французская марка Longchamp представила новую модель сумки Paris Premier, посвященную 1-му муниципальному округу Парижа. Аксессуар выполнен из телячьей кожи и декорирован медными вставками. Внутри сумки есть несколько отделений, расположение которых напоминает сады Palais-Royal.]]>
+            </description>
+            <pubDate>Tue, 04 Oct 2016 10:18:00 +0300</pubDate>
+            <enclosure
+                    url="https://icdn.lenta.ru/images/2016/10/04/09/20161004094328973/pic_97b7b7071b49da1757c0f902e064c9f9.jpg"
+                    length="33317" type="image/jpeg"/>
+            <category>Ценности</category>
+        </item>
+    </channel>
+</rss>
